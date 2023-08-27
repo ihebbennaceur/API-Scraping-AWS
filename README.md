@@ -17,3 +17,5 @@ Project 🚧
 The marketing team needs help on a new project. After doing some user research, the team discovered that 70% of their users who are planning a trip would like to have more information about the destination they are going to.
 
 In addition, user research shows that people tend to be defiant about the information they are reading if they don't know the brand which produced the content.
+
+video : https://share.vidyard.com/watch/x9QeioNY19FzoaMTgcoVfk?
